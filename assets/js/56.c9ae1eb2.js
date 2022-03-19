@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{481:function(p,n,s){p.exports=s.p+"assets/img/weChat02.27097449.png"}}]);
