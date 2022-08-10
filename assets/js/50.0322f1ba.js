@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[50],{537:function(p,s,c){p.exports=c.p+"assets/img/bg_02.478ccfac.jpg"}}]);
